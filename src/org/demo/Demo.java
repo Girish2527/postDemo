@@ -2,6 +2,10 @@ package org.demo;
 
 public class Demo {
 
+	private void multi() {
+		System.out.println("Multiply");
+	}
+
 	private void sub() {
 		System.out.println("Subraction");
 	}
